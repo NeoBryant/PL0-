@@ -1,4 +1,4 @@
-# PL0编译
+# PL0
 
 ## usage
 compile: `fpc PL0.pas`
